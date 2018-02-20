@@ -1,2 +1,2 @@
 # Boost_Server
-A HTTP Server base on Boost.Asio,it it  asynchronous server.
+A cross-platform HTTP Server base on Boost.Asio,it is asynchronous IO.
